@@ -1,5 +1,3 @@
-# Mithun_S88_Zavvo_Capstone
-# S88_Mithun-_Capstone_Zavvo
 Description :
     Zavvo  is an intelligent price comparison platform designed to empower online shoppers with real-time price comparisons , product filters ,  coupon integration , historical trends , smart buying suggestions across various e-commerce platforms , compare products , add to cart and get notifications when price drops , user focused features and Zavvo ensures that you never overpay again.
 
