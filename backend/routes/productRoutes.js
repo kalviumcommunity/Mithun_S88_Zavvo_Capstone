@@ -2,7 +2,6 @@ const express = require('express');
 const router = express.Router();
 const Product = require('../models/Product');
 
-// Adding product
 router.post('/', async (req, res) => {
   try {
     const product = new Product(req.body);
@@ -13,8 +12,6 @@ router.post('/', async (req, res) => {
   }
 });
 
-module.exports = router;
-
 
 router.get('/', async (req, res) => {
   try {
@@ -24,3 +21,5 @@ router.get('/', async (req, res) => {
     res.status(500).json({ message: err.message });
   }
 });
+
+module.exports = router;
