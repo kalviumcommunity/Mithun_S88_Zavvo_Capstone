@@ -71,3 +71,4 @@ Week 6:
 •	Deploy frontend using Vercel, backend using Render.
 •	Full end-to-end testing with dummy users and deploy MongoDB Atlas backup.
 
+Backend deployed link = https://mithun-s88-capstone-zavvo.onrender.com
