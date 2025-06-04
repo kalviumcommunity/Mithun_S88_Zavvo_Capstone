@@ -72,3 +72,5 @@ Week 6:
 •	Full end-to-end testing with dummy users and deploy MongoDB Atlas backup.
 
 Backend deployed link = https://mithun-s88-capstone-zavvo.onrender.com
+
+Frontend netlify deployment = https://app.netlify.com/projects/capstone-zavvo-frontend/configuration/general
